@@ -1,0 +1,83 @@
+
+<resources>
+<string name="app_name">CollapsLayout</string>
+<string name="roboto_bold">Roboto_Bold.ttf</string>
+<string name="roboto_regular">Roboto_Regular.ttf</string>
+<string name="roboto_medium">Roboto_Medium.ttf</string>
+<string name="roboto_light">Roboto_Light.ttf</string>
+<string name="georgia">georgia.ttf</string>
+<string name="georgia_bold">georgia-Bold.ttf</string>
+<string name="georgia_bold_italic">georgia-Bold-Italic.ttf</string>
+<string name="georgia_italic">georgia-Italic.ttf</string>
+<string name="lato_black">Lato-Black.ttf</string>
+<string name="lato_italic">Lato-Italic.ttf</string>
+<string name="lato_light">Lato-Light.ttf</string>
+<string name="lato_regular">Lato-Regular.ttf</string>
+
+
+
+<string name="new_and_now">Featured</string>
+<string name="around_you">Near Me</string>
+<string name="my_account">My Favorites</string>
+<string name="logout">Logout</string>
+<string name="home">Home</string>
+<string name="explore_culture">Explore Culture</string>
+<string name="experiences_near_me">Experiences Near me</string>
+<string name="my_favorites">My Favorites</string>
+<string name="event_calendar">Event Calendar</string>
+<string name="augmented_reality">Augmented Reality</string>
+<string name="resources">Resources</string>
+<string name="unesco">Unesco</string>
+<string name="about_us">About us</string>
+<string name="contact_us">Contact us</string>
+<string name="get_involved">Get involved</string>
+<string name="plan_a_visit">Plan a visit</string>
+<string name="profile_preferences">Profile Preferences</string>
+<string name="notifications">Notifications</string>
+<string name="language">Language</string>
+<string name="english">English</string>
+<string name="explore">Explore</string>
+<string name="explore_des">Abu  Dhabi\nCulture\nlike  never\nbefore</string>
+<string name="choose_your_interest">Choose your Interests</string>
+<string name="get_personalized_recommendation">Get personalized recommendations\non the go</string>
+<string name="arabic">عربي</string>
+<string name="french">Français</string>
+<string name="art_events">Art Events</string>
+<string name="heritage_events">Heritage Events</string>
+<string name="literature">Literature</string>
+<string name="museums">Museums</string>
+<string name="done">Done</string>
+<string name="skip">Skip</string>
+<string name="location">Location: %s</string>
+<string name="timings">Timings: %s</string>
+<string name="duration_text">%smins in car from where you are</string>
+<string name="set_preferences">Set preferences</string>
+<string name="get_updates_every_week">Get updates every week</string>
+<string name="watch_360_image_tour">Watch 360 Image Tour</string>
+<string name="no_thanks">No, thanks</string>
+<string name="turn_on">Turn on</string>
+<string name="view_all">View all</string>
+<string name="abu_dhabi_culture">#AbuDhabiCulture</string>
+<string name="download_heritage_offline">Download Heritage offline</string>
+<string name="near_me">Near me</string>
+<string name="duration_distance_format">%smin (%skm)</string>
+<string name="sticky_book_visit_format">From\n%s AED</string>
+<string name="event">Event</string>
+<string name="opening_hours">Opening Hours</string>
+<string name="tuseday_to_sunday">Tuesday to Sunday</string>
+<string name="time">9:00am - 9:00pm</string>
+<string name="location_street">Location</string>
+<string name="name_street">Al Ain Meseum,Zayed bin Sultan Street,Next to Al Ain Oasis</string>
+<string name="contact_information">Contact Information</string>
+<string name="phone_number">+971 37118332</string>
+<string name="email">mouza.alameri@tcaabdhabi.aeon</string>
+<string name="free_event">Free Event</string>
+<string name="register_for_event">Register For Event</string>
+<string name="atteding_this_event">Attending this event</string>
+<string name="add_to_calender">Add to calender</string>
+<string name="over_view">Over View</string>
+<string name="show_more">Show More</string>
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
